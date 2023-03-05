@@ -1,3 +1,7 @@
+type ButtonBase = {
+  baseButton: string;
+} 
+
 const Button = {
 
 }
